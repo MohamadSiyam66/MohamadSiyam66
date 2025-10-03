@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Mohamad Siyam 👋  
 
 Welcome to my GitHub! I'm a **Software Engineer Intern** and final-year **ICT undergraduate** passionate about building scalable applications, solving real-world problems, and continuously learning new technologies.  
@@ -51,4 +50,3 @@ A data warehouse solution for **Daraz** that integrates **Google Sheets**, **MS 
 Feel free to reach out to me if you'd like to collaborate on projects or discuss any interesting ideas. I'm always open to new opportunities and challenges!  
 
 [![](https://visitcount.itsvg.in/api?id=MohamadSiyam66&icon=3&color=1)](https://visitcount.itsvg.in)  
-```
